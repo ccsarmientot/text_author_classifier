@@ -2,6 +2,7 @@
 Data
 bk_data
 Dashboard
+Notebooks
 test_notebook.ipynb
 logs.txt
 *.csv

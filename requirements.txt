@@ -1,0 +1,8 @@
+## conda create -n env_test python=3.11 ipykernel pip -y
+numpy==1.26.4
+pyarrow==17.0.0
+pandas==2.2.3
+nltk==3.9.1
+scikit-learn==1.5.2
+gensim==4.3.3
+imblearn==0.12.4
